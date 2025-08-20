@@ -35,7 +35,7 @@ The project was developed in **Google Colab** for easy reproducibility.
 Click below to open the notebook directly in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/titanic_project.ipynb)
+https://colab.research.google.com/github/ali123/titanic-ml/blob/main/titanic_project.ipynb)
 
 
 ## Next Steps
