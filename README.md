@@ -36,6 +36,7 @@ The project was developed in Google Colab for easy reproducibility.
    Train ML models (Logistic Regression, Decision Trees, Random Forest).
    Compare accuracy & performance.
    Deploy the best model as a web app.
+   
 
 
 That you made it in Colab
